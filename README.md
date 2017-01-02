@@ -1,2 +1,2 @@
 # SpiderForShopping
-grab the data about the discount goods
+grab the data about the discount goods.
